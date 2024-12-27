@@ -2,33 +2,33 @@
 
 This repository showcases a Sales Dashboard designed in Excel, providing an interactive and visual analysis of sales performance.
 
-#🌟 Features of the Dashboard
+# 🌟 Features of the Dashboard
 Sales by Category
 
-#Bar Chart: Visualizes sales across various product categories.
+# Bar Chart: Visualizes sales across various product categories.
 #Data Table: Displays exact sales figures for each category.
  Profit Over Time
 
-#Line Chart: Tracks profit trends from 2014 to 2017, segmented by category.
+# Line Chart: Tracks profit trends from 2014 to 2017, segmented by category.
  Geographical Sales Analysis
 
-#Map with Markers: Highlights sales distribution geographically.
+# Map with Markers: Highlights sales distribution geographically.
  Top 5 Customers by Profit
 
-#Pie Chart: Identifies key customers driving profitability.
+# Pie Chart: Identifies key customers driving profitability.
 Monthly Sales Trends
 
-#Line Chart: Analyzes sales performance across 12 months, highlighting seasonal trends.
+# Line Chart: Analyzes sales performance across 12 months, highlighting seasonal trends.
  Interactive Filters
 
 Category and year filters for a tailored data exploration experience.
-🔍 Key Insights
+# 🔍 Key Insights
 Identify top-performing categories.
 Visualize profit trends over time.
 Analyze sales distribution across regions.
 Recognize top customers contributing to profits.
 Detect seasonal sales patterns.
-💡 Applications
+# 💡 Applications
 This dashboard is a valuable tool for:
 
 Optimizing product strategies.
